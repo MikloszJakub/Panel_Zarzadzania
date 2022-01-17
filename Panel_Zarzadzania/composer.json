@@ -1,0 +1,9 @@
+{
+    "name": "x/aurora",
+    "autoload": {
+        "psr-4": {
+            "X\\Aurora\\": "src/"
+        }
+    },
+    "require": {}
+}
